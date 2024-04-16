@@ -767,7 +767,7 @@
          "height":180,
          "id":14,
          "name":"Collision lac",
-         "opacity":1,
+         "opacity":0.6,
          "type":"tilelayer",
          "visible":true,
          "width":320,
